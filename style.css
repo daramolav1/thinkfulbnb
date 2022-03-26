@@ -151,7 +151,7 @@ footer p {
   }
   form select,
   form input {
-    margin: 0;
+    margin: 5px;
     width: 100%;
   }
   form div {
